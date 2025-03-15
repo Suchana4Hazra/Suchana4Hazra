@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h1 align="center">𝓢𝓾𝓬𝓱𝓪𝓷𝓪 𝓗𝓪𝔃𝓻𝓪</h1>
+<p align="center">
+  <img src="https://github.com/Suchana4Hazra/Suchana4Hazra/blob/main/signature.jpg" alt="My Signature" width="200">
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suchana4Hazra&color=blue" alt="Profile Views" />
