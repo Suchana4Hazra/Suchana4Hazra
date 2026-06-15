@@ -16,12 +16,6 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [JDBC](https://github.com/Suchana4Hazra/JDBC)
-
-- 🌱 I’m currently learning **DSA, MERN Stack**
-
-- 📫 How to reach me **suchanahazra99@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://in.linkedin.com/in/suchana-hazra-538166283" target="blank">
